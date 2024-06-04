@@ -8,11 +8,16 @@ The thesis was conducted by [**Ricardo Queiroz de Farias Henrique Silva**](https
 
 ## Repository Structure
 
+The repository has two folders, containing the files described below.
+
 ### Datasets
 - [Brazilian National Telecommunication Agency (ANATEL) BTSs informations](https://github.com/ricardoqueirozz/nir-measurement-methodology/blob/main/dataset/csv_licenciamento_2e8f645ab8074b48e0421115d284a2da.csv);
 - Measurements conducted in the buildings - TBD.
  
 ### Scripts
+
+The scripts are divided by purpose, methodology and results. They were made in ipynbs, which also contains usage explanations.
+
 #### Methodology
 - [Plots for azimuth analisys](https://github.com/ricardoqueirozz/nir-measurement-methodology/blob/main/scripts/azimuth_analysis.ipynb);
 - [Plots for target floor analisys](https://github.com/ricardoqueirozz/nir-measurement-methodology/blob/main/scripts/floor_analysis.ipynb).
