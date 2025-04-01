@@ -11,7 +11,7 @@ The thesis was conducted by [**Ricardo Queiroz de Farias Henrique Silva**](https
 The repository has two folders, containing the files described below.
 
 ### Datasets
-- [Brazilian National Telecommunication Agency (ANATEL) BTSs informations](https://github.com/ricardoqueirozz/nir-measurement-methodology/blob/main/dataset/csv_licenciamento_2e8f645ab8074b48e0421115d284a2da.csv);
+- [Brazilian National Telecommunication Agency (ANATEL) BTSs informations](https://github.com/ricardoqueirozz/nir-measurement-methodology/blob/main/datasets/);
 - Measurements conducted in the buildings - TBD.
  
 ### Scripts
@@ -28,5 +28,4 @@ The scripts are divided by purpose, methodology and results. They were made in i
 ## License of Use
 
 If you are considering using any material from this repository as a basis for new works, I ask you to cite the following works:
-- TBD
-
+- [Metodologia para Medição e Avaliação de RNI em Prédios Próximos a Estações de Telecomunicações](https://doi.org/10.14209/sbrt.2024.1571025720)
