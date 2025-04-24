@@ -1,4 +1,4 @@
-# Non-Ionizing Radiation (NIR) Measurements in Buildings.
+# Radiofrequency Electromagnetic Field (RF-EMF) Measurements in Buildings.
 
 This repository contains the data and scripts used in the master's thesis titled **"TBD"**. The thesis covers the methods and results of NIR measurements conducted in buildings with Base Transceiver Stations (BTSs) in it rooftop or buildings which some floors are under BTSs line of sight.
 
