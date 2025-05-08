@@ -17,7 +17,7 @@ The repository has three folders, containing the files described below.
 ### Scripts
 
 The scripts used for methodology purposes are presented below:
-- [BSs selection interactive map](https://github.com/ricardoqueirozz/nir-measurement-methodology/blob/main/scripts/BSs_map.ipynb).
+- [BSs selection interactive map](https://github.com/ricardoqueirozz/nir-measurement-methodology/blob/main/scripts/BSs_map.ipynb) (online interactive experience at [nbviewer](https://nbviewer.org/github/ricardoqueirozz/nir-measurement-methodology/blob/main/scripts/BSs_map.ipynb)).
 - [Horizontal zone of interest analysis](https://github.com/ricardoqueirozz/nir-measurement-methodology/blob/main/scripts/azimuth_analysis.ipynb).
 - [Vertical zone of interest analysis](https://github.com/ricardoqueirozz/nir-measurement-methodology/blob/main/scripts/floor_analysis.ipynb).
 
